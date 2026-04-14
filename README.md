@@ -2,7 +2,7 @@
 
 2. A, 50 porque el valor porque el valor por DEFAULT es 10, entonces 5*10= 50 
 
-3. 
+3. c) Error: no se puede modificar una variable global sin usar global
 
 4. b, from math import sqrt
 
