@@ -4,7 +4,6 @@ hp_enemigo = 50.
 estado_inicial = hp_heroe == 100 and hp_enemigo == 50.
 
 
-
 def calcular_dano(ataque, defensa):
   return ataque - defensa
 
